@@ -1,2 +1,3 @@
-# xulingye.github.io
-My personal blog
+# Xuling Ye - personal blog
+
+Visit xulingye.github.io
